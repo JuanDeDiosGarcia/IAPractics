@@ -7,7 +7,7 @@ using static UnityEngine.GraphicsBuffer;
 public class Wader : MonoBehaviour
 {
 
-    float radius = 50;
+   public float radius = 20;
     float offset;
 
     Vector3 localTarget;

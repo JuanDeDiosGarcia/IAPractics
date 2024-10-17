@@ -72,6 +72,10 @@ public class Flock : MonoBehaviour
     // - Alignment: Match the speed of nearby fish.
     void ApplyFlockingRules()
     {
+
+
+
+
         // Retrieve the list of all fish in the flock from the FlockManager
         GameObject[] gos = FlockManager.FM.allFish;
 

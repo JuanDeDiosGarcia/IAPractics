@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3788464343710132737}
   - component: {fileID: 4422708117580527564}
   m_Layer: 0
-  m_Name: Cube (5)
+  m_Name: Ojo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -118,7 +118,7 @@ GameObject:
   - component: {fileID: 8586322531722646577}
   - component: {fileID: 3886097432879488811}
   m_Layer: 0
-  m_Name: Cube (4)
+  m_Name: Cola
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -167,7 +167,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8c9334e4b374593498ad4a7d7ec9df7d, type: 2}
+  - {fileID: 2100000, guid: 7ae54d34284cb7642958a5c0f24c25a8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -244,7 +244,7 @@ Transform:
   - {fileID: 4488392852037288909}
   - {fileID: 7503718655846333758}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &667351258065336930
 MonoBehaviour:
@@ -292,7 +292,7 @@ GameObject:
   - component: {fileID: 5803745808913349133}
   - component: {fileID: 5068999385861557500}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: Cuerpo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -341,7 +341,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8c9334e4b374593498ad4a7d7ec9df7d, type: 2}
+  - {fileID: 2100000, guid: 7ae54d34284cb7642958a5c0f24c25a8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
